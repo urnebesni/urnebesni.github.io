@@ -97,8 +97,9 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn:
 
+# https://media.licdn.com/dms/image/v2/D4D35AQGdiSuwOjlL-Q/profile-framedphoto-shrink_400_400/B4DZnF4xVqHwAc-/0/1759961618077?e=1761508800&v=beta&t=lAPiNQuhIMy9ozYUVDbSZQORJaQmA3ROfPxsV-Zi-M8
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/v2/D4D35AQGdiSuwOjlL-Q/profile-framedphoto-shrink_400_400/B4DZnF4xVqHwAc-/0/1759961618077?e=1761508800&v=beta&t=lAPiNQuhIMy9ozYUVDbSZQORJaQmA3ROfPxsV-Zi-M8
+avatar: https://avatars.githubusercontent.com/u/47198717?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
